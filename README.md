@@ -1,8 +1,10 @@
 
 # Lucas Ivanov
+<div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30A3DC&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Ivanov;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+Unioeste+PR;Dev+JavaScript+%7C+React+%7C+Python;)](https://git.io/typing-svg)
 
+</div>
 ## 🎯 Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação** na **Unioeste** (Universidade Estadual do Oeste do Paraná)
