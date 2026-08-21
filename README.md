@@ -1,13 +1,13 @@
 
 # Lucas Ivanov
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30A3DC&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Ivanov;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+Unioeste+PR;Dev+JavaScript+%7C+React+%7C+Python;Aberto+a+novas+oportunidades)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30A3DC&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Ivanov;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+Unioeste+PR;Dev+JavaScript+%7C+React+%7C+Python;)](https://git.io/typing-svg)
 
 ## 🎯 Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação** na **Unioeste** (Universidade Estadual do Oeste do Paraná)
 - 💻 Foco atual em **JavaScript**, **React** e **Python**
-- ⚡ Participante dos hackathons **ShowRural** e **Hack'n Hub One**
+- ⚡ Já participei de hackathons e minicursos durante minha jornada acadêmica
 - 💼 Atualmente, trabalho na **EBCON Contadores** desenvolvendo automações para as demais áreas da contabilidade
 - 📫 Contato: veja a seção **Conecte-se comigo** abaixo
 
@@ -32,11 +32,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 🚀 Hackathons
-
-- 🐝 **ShowRural** — Desenvolvimento de um aplicativo para gerenciamento de colmeias de abelhas, voltado para apicultores.
-- 📊 **Hack'n Hub One** — Desenvolvimento de um dashboard para controle do incentivo fiscal da região, acompanhando o quanto retornava para o município.
-
 **Outros repositórios acadêmicos:**
 
 | Repositório | Descrição | Stack |
@@ -46,10 +41,6 @@
 | [Paralelo-e-Nuvem](https://github.com/LucasIvanov/Paralelo-e-Nuvem) | Verificação dos trabalhos finais de Computação Paralela e em Nuvem | C |
 | [TDD-Roteiro-de-PES-II](https://github.com/LucasIvanov/TDD-Roteiro-de-PES-II) | Roteiro de TDD da disciplina de Prática de Engenharia de Software II | — |
 | [minicurso-git-teste](https://github.com/LucasIvanov/minicurso-git-teste) | Repositório de testes de um minicurso de Git | HTML |
-
-## 📈 Atividade
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasIvanov&theme=react-dark&bg_color=000000&color=30A3DC&line=E94D5F&point=ffffff&hide_border=true)
 
 ---
 
