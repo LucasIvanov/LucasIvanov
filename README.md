@@ -2,7 +2,7 @@
 # Lucas Ivanov
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Ivanov;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+Unioeste-PR;Dev+Python+%7C+React+%7C+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Ivanov;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Dev+Python+%7C+React+%7C+JavaScript)](https://git.io/typing-svg)
 
 </div>
 ## 🎯 Sobre mim
