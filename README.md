@@ -37,15 +37,6 @@
 - 🐝 **ShowRural** — Desenvolvimento de um aplicativo para gerenciamento de colmeias de abelhas, voltado para apicultores.
 - 📊 **Hack'n Hub One** — Desenvolvimento de um dashboard para controle do incentivo fiscal da região, acompanhando o quanto retornava para o município.
 
-## 📌 Projetos em destaque
-
-<div align="center">
-
-[![Hackathon2025](https://github-stats-extended.vercel.app/api/pin/?username=LucasIvanov&repo=Hackathon2025&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasIvanov/Hackathon2025)
-[![dio-lab-open-source](https://github-stats-extended.vercel.app/api/pin/?username=LucasIvanov&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasIvanov/dio-lab-open-source)
-
-</div>
-
 **Outros repositórios acadêmicos:**
 
 | Repositório | Descrição | Stack |
@@ -60,13 +51,9 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasIvanov&theme=react-dark&bg_color=000000&color=30A3DC&line=E94D5F&point=ffffff&hide_border=true)
 
-## 🏆 Troféus
-
-![Trophy](https://trophy.benkou.dev/?username=LucasIvanov&theme=darkhub&no-frame=true&no-bg=true&margin-w=8)
-
 ---
 
-<div align="center">
+<div align="left">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=LucasIvanov&color=30A3DC&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es)
 
