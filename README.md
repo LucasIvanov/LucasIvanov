@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/170194736?v=4" width="120" alt="Lucas Ivanov" /><br/>
 
 # Lucas Ivanov
 
