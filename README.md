@@ -3,16 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30A3DC&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Ivanov;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+Unioeste+PR;Dev+JavaScript+%7C+React+%7C+Python;Aberto+a+novas+oportunidades)](https://git.io/typing-svg)
 
-</div>
-
 ## 🎯 Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação** na **Unioeste** (Universidade Estadual do Oeste do Paraná)
 - 💻 Foco atual em **JavaScript**, **React** e **Python**
-- 🔭 Também estudando **Computação Gráfica**, **Sistemas Operacionais** e **Computação Paralela e em Nuvem**
-- 🌱 Praticando **Engenharia de Software** (TDD) e contribuições em **Open Source**
-- ⚡ Já participei de hackathons e minicursos de Git
-- 💼 Disponível para oportunidades na área de tecnologia
+- ⚡ Participante dos hackathons **ShowRural** e **Hack'n Hub One**
+- 💼 Atualmente, trabalho na **EBCON Contadores** desenvolvendo automações para as demais áreas da contabilidade
 - 📫 Contato: veja a seção **Conecte-se comigo** abaixo
 
 ## 🌐 Conecte-se comigo
@@ -36,6 +32,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+## 🚀 Hackathons
+
+- 🐝 **ShowRural** — Desenvolvimento de um aplicativo para gerenciamento de colmeias de abelhas, voltado para apicultores.
+- 📊 **Hack'n Hub One** — Desenvolvimento de um dashboard para controle do incentivo fiscal da região, acompanhando o quanto retornava para o município.
+
 ## 📌 Projetos em destaque
 
 <div align="center">
@@ -54,12 +55,6 @@
 | [Paralelo-e-Nuvem](https://github.com/LucasIvanov/Paralelo-e-Nuvem) | Verificação dos trabalhos finais de Computação Paralela e em Nuvem | C |
 | [TDD-Roteiro-de-PES-II](https://github.com/LucasIvanov/TDD-Roteiro-de-PES-II) | Roteiro de TDD da disciplina de Prática de Engenharia de Software II | — |
 | [minicurso-git-teste](https://github.com/LucasIvanov/minicurso-git-teste) | Repositório de testes de um minicurso de Git | HTML |
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LucasIvanov&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![GitHub Streak](https://streak-stats.demolab.com/?user=LucasIvanov&theme=transparent&background=000&border=30A3DC&stroke=FFF&ring=E94D5F&fire=E94D5F&currStreakLabel=30A3DC)
-![Top Linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=LucasIvanov&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact)
 
 ## 📈 Atividade
 
